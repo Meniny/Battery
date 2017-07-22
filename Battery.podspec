@@ -9,7 +9,7 @@ Pod::Spec.new do |s|
   s.author             = { "Elias Abel" => "Meniny@qq.com" }
   s.social_media_url   = "https://meniny.cn"
   s.platform     = :ios, "8.0"
-  s.source       = { :git => "https://github.com/Meniny/Battery", :tag => "#{s.version}" }
+  s.source       = { :git => "https://github.com/Meniny/Battery.git", :tag => "#{s.version}" }
   s.source_files  = "Battery/*"
   s.public_header_files = "Battery/*.h"
   s.frameworks = "Foundation", "UIKit"
