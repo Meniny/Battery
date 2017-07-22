@@ -1,0 +1,16 @@
+PODS:
+  - Battery (1.0.0)
+
+DEPENDENCIES:
+  - Battery (from `../`)
+
+EXTERNAL SOURCES:
+  Battery:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Battery: 92d45fa3d4d3c21365bc20cc4d641e7563b2903f
+
+PODFILE CHECKSUM: 311189f32d66fc8b62f05927e6f3261bd8fd9ffe
+
+COCOAPODS: 1.2.1
